@@ -12,7 +12,7 @@ Esther Rolf\*, *Nikolay Malkin\**, Alexandros Graikos, Ana Jojic, Caleb Robinson
 Dinghuai Zhang, *Nikolay Malkin*, Zhen Liu, Alexandra Volokhova, Aaron Courville, Yoshua Bengio    
 *preprint*
 
-[Trajectory balance: Improved credit assignment in GFlowNets](https//arxiv.org/abs/2201.13259)     
+[Trajectory balance: Improved credit assignment in GFlowNets](https://arxiv.org/abs/2201.13259)     
 *Nikolay Malkin*, Moksh Jain, Emmanuel Bengio, Chen Sun, Yoshua Bengio    
 *preprint*
 

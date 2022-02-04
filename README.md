@@ -5,7 +5,7 @@
 ### 2022 
 
 [Resolving label uncertainty with implicit generative models](https://hi.com)    
-Esther Rolf*, *Nikolay Malkin**, Alexandros Graikos, Ana Jojic, Caleb Robinson, Nebojsa Jojic    
+Esther Rolf\*, *Nikolay Malkin\**, Alexandros Graikos, Ana Jojic, Caleb Robinson, Nebojsa Jojic    
 *preprint, 2022*
 
 [Generative flow networks for discrete probabilistic modeling](https://arxiv.org/abs/2202.01361)    

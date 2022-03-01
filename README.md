@@ -24,7 +24,7 @@ Dinghuai Zhang, *Nikolay Malkin*, Zhen Liu, Alexandra Volokhova, Aaron Courville
 Zhuohong Li, Fangxiao Lu, Hongyan Zhang, Lilin Tu, Jiayi Li, Xin Huang, Caleb Robinson, *Nikolay Malkin*, Nebojsa Jojic, Pedram Ghamisi, Ronny Hänsch, Naoto Yokoya       
 *Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**)*
 
-### 2022
+### 2021
 
 [Studying word order through iterative shuffling](https://aclanthology.org/2021.emnlp-main.809/)    
 *Nikolay Malkin*, Sameera Lanka, Pranav Goel, Nebojsa Jojic    

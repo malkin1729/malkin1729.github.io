@@ -4,7 +4,7 @@
 
 ### 2022 
 
-[Boosting coherence of language models](https://openreview.net/forum?id=CJQqdS-fx3K) ([arXiv](https://arxiv.org/abs/2110.08294)) 
+[Boosting coherence of language models](https://openreview.net/forum?id=CJQqdS-fx3K) ([arXiv](https://arxiv.org/abs/2110.08294))   
 *Nikolay Malkin*, Zhen Wang, Nebojsa Jojic    
 *Association for Computational Linguistics (**ACL**)*
 

@@ -4,7 +4,11 @@
 
 ### 2022 
 
-[Resolving label uncertainty with implicit generative models](link)   
+[Boosting coherence of language models](https://openreview.net/forum?id=CJQqdS-fx3K) ([arXiv](https://arxiv.org/abs/2110.08294)) 
+*Nikolay Malkin*, Zhen Wang, Nebojsa Jojic    
+*Association for Computational Linguistics (**ACL**)*
+
+[Resolving label uncertainty with implicit posterior models](https://arxiv.org/abs/2202.14000)   
 Esther Rolf\*, *Nikolay Malkin\**, Alexandros Graikos, Ana Jojic, Caleb Robinson, Nebojsa Jojic    
 *preprint*
 
@@ -20,11 +24,7 @@ Dinghuai Zhang, *Nikolay Malkin*, Zhen Liu, Alexandra Volokhova, Aaron Courville
 Zhuohong Li, Fangxiao Lu, Hongyan Zhang, Lilin Tu, Jiayi Li, Xin Huang, Caleb Robinson, *Nikolay Malkin*, Nebojsa Jojic, Pedram Ghamisi, Ronny Hänsch, Naoto Yokoya       
 *Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**)*
 
-### 2021 
-
-[Boosting coherence of language models](https://arxiv.org/abs/2110.08294)    
-*Nikolay Malkin*, Zhen Wang, Nebojsa Jojic    
-*preprint*
+### 2022
 
 [Studying word order through iterative shuffling](https://aclanthology.org/2021.emnlp-main.809/)    
 *Nikolay Malkin*, Sameera Lanka, Pranav Goel, Nebojsa Jojic    

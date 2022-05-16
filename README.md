@@ -4,17 +4,17 @@
 
 ### 2022 
 
-[Coherence boosting: When your pretrained language model is not paying enough attention](https://arxiv.org/abs/2110.08294)    
-*Nikolay Malkin*, Zhen Wang, Nebojsa Jojic    
-*Association for Computational Linguistics (**ACL**)*
-
 [Resolving label uncertainty with implicit posterior models](https://arxiv.org/abs/2202.14000)   
 Esther Rolf\*, *Nikolay Malkin\**, Alexandros Graikos, Ana Jojic, Caleb Robinson, Nebojsa Jojic    
-*preprint*
+*Uncertainty in Artificial Intelligence (**UAI**)* 2022
 
 [Generative flow networks for discrete probabilistic modeling](https://arxiv.org/abs/2202.01361)    
 Dinghuai Zhang, *Nikolay Malkin*, Zhen Liu, Alexandra Volokhova, Aaron Courville, Yoshua Bengio    
-*preprint*
+*International Conference on Machine Learning (**ICML**)* 2022
+
+[Coherence boosting: When your pretrained language model is not paying enough attention](https://arxiv.org/abs/2110.08294)    
+*Nikolay Malkin*, Zhen Wang, Nebojsa Jojic    
+*Association for Computational Linguistics (**ACL**)* 2022
 
 [Trajectory balance: Improved credit assignment in GFlowNets](https://arxiv.org/abs/2201.13259)     
 *Nikolay Malkin*, Moksh Jain, Emmanuel Bengio, Chen Sun, Yoshua Bengio    

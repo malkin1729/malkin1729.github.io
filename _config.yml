@@ -1,10 +1,10 @@
 theme: jekyll-theme-minimal
 url                      : https://malkin1729.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "malkin1729/malkin1729.github.io"
-teaser                   : "portrait.jpeg"
+logo                   : "images/portrait.jpeg"
 
 author:
   name             : "Kolya Malkin"
-  avatar           : "portrait.jpeg"
+  avatar           : "images/portrait.jpeg"
   bio              : "nikolay.malkin [at] mila [dot] quebec"
   location         : "Montréal, Québec, Canada"

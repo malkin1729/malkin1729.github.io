@@ -12,6 +12,14 @@ Esther Rolf\*, *Nikolay Malkin\**, Alexandros Graikos, Ana Jojic, Caleb Robinson
 Dinghuai Zhang, *Nikolay Malkin*, Zhen Liu, Alexandra Volokhova, Aaron Courville, Yoshua Bengio    
 *International Conference on Machine Learning (**ICML**)* 2022
 
+[Unifying generative models with GFlowNets](https://zdhnarsil.github.io/files/Unifying_GM_as_GFlowNets.pdf)  
+Dinghuai Zhang, Ricky T. Q. Chen, *Nikolay Malkin*, Yoshua Bengio  
+*ICML &ldquo;Beyond Bayes: Paths Towards Universal Reasoning Systems&rdquo; workshop* 2022
+
+[Diffusion models as plug-and-play priors](http://arxiv.org/abs/2206.09012)  
+Alexandros Graikos, *Nikolay Malkin*, Nebojsa Jojic, Dimitris Samaras  
+*preprint*
+
 [Coherence boosting: When your pretrained language model is not paying enough attention](https://arxiv.org/abs/2110.08294)    
 *Nikolay Malkin*, Zhen Wang, Nebojsa Jojic    
 *Association for Computational Linguistics (**ACL**)* 2022

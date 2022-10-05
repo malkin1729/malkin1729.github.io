@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kolya Malkin's homepage</title>
+    <link rel="stylesheet" href="style.css" />
+    <style>
+        tag {
+            width: 0.5em;
+            height:0.809em;
+            display: inline-block;
+            margin: 0em 0em 0em 0.25em;
+        }
+        .ml {
+            background-color: blue;
+        }
+        .nlp {
+            background-color: green;
+        }
+        .cv {
+            background-color: pink;
+        }
+        .math {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Kolya Malkin's homepage</h1>
+    <p>
+        <img src="images/portrait.jpeg" style="width:100%;" />
+    </p>
+    <h2>Contact</h2>
+    <p>
+        <a href="mailto:nikolay.malkin@mila.quebec">Mila email</a> / <a href="mailto:kolya_malkin@hotmail.com">backup email</a>
+    </p>
+    <p>
+        <a href="https://github.com/malkin1729">GitHub</a>
+    </p>
+    <h2 id="mhobook">Math Out Loud</h2>
+    <p>
+        <img src="images/book_cover.jpeg" style="width:50%;" /><br />
+        Available from the <a href="https://bookstore.ams.org/mcl-27/">American Mathematical Society</a> or <a href="https://www.amazon.com/dp/1470466937/">Amazon</a>.
+    </p>
+</header>
+<section>
+    <h2>About me</h2>
+    <p>
+        I am a postdoctoral researcher at <a href="https://mila.quebec">Mila &ndash; Qu&eacute;bec AI institute</a> and <a href="https://umontreal.ca">Universit&eacute; de Montr&eacute;al</a> in Montr&eacute;al, Qu&eacute;bec, Canada. I mainly work on <b>deep-learning-based reasoning</b> and its applications. I am interested in the following subjects:
+        <ul>
+            <li><b>Generative models</b><tag class="ml"></tag>, in particular, induction of compositional structure in generative models and modeling of posteriors over high-dimensional explanatory variables. Much of my recent work is on generative flow networks, or <a href="https://tinyurl.com/gflownet-tutorial">GFlowNets</a>, which are a path towards inference machines that build structured, uncertainty-aware explanations for observed data.</li>
+            <li>Applications to <b>natural language processing</b><tag class="nlp"></tag>: what large language models can do, what they cannot do, and how to overcome their limitations with inference procedures that induce behaviours more akin to human reasoning.</li>
+            <li>Applications to <b>computer vision</b><tag class="cv"></tag>: notably, below you can find my work on AI for remote sensing (land cover mapping and change detection), which can be used for tracking land use patterns over time and monitoring the effects of climate change.</li>
+        </ul>
+    </p>
+    <p>
+        Since November 2021, I have been a member of Prof.&nbsp;<a href="https://yoshuabengio.org">Yoshua Bengio</a>'s research group. I have also been lucky to work with many fellow postdocs and M.S./Ph.D. students, including <a href="https://zdhnarsil.github.io">Dinghuai Zhang</a>, <a href="https://alexandravolokhova.github.io">Alexandra Volokhova</a>, <a href="https://mj10.github.io">Moksh Jain</a>, <a href="https://edwardjhu.com">Edward Hu</a>, <a href="https://jarridrb.github.io">Jarrid Rector-Brooks</a>.
+    </p>
+    <p>
+        I was formally trained as a pure mathematician: at the <a href="http://www.math.washington.edu">University of Washington (Seattle)</a> (B.S., 2015) and <a href="https://math.yale.edu">Yale University</a> (M.S. and <a href="https://elischolar.library.yale.edu/gsas_dissertations/84/">Ph.D.</a>, 2021). In addition, I believe many individuals and societies could benefit from a dose of friendly mathematical education. Some organizations I have been involved in: <a href="http://www.math.washington.edu/~mathcircle">UW Math Circles</a> (Seattle), <a href="https://mathmaddicts.org">Math-M-Addicts</a> (New York City). I am also a coauthor of this <a href="#mhobook">collection of problems and puzzles</a>.
+    </p>
+
+    <h2>Publications and preprints 
+        <span style="font-weight: normal;">
+            (also <a href="https://scholar.google.com/citations?user=S_Nn-XYAAAAJ">here</a> and <a href="https://www.semanticscholar.org/author/Nikolay-Malkin/2067020770">here</a>)
+        </span>
+    </h2>
+    <h3>2022</h3>
+    <item>
+        <name><a href="http://arxiv.org/abs/2210.01293"><span style="color:red;font-variant-caps:small-caps;">Think</span><span style="color:violet;font-variant-caps:small-caps;">Sum</span> Probabilistic reasoning over sets using large language models</a><tag class="nlp"></tag></name>  
+        <authors>Batu Ozturkler, <me>Nikolay Malkin</me>, Zhen Wang, Nebojsa Jojic</authors>
+        <journal>preprint</journal>
+    </item>
+    <item>
+        <name><a href="http://arxiv.org/abs/2210.00580">GFlowNets and variational inference</a><tag class="ml"></tag></name>  
+        <authors><me>Nikolay Malkin</me>&ast;, Salem Lahlou&ast;, Tristan Deleu&ast;, Xu Ji, Edward Hu, Katie Everett, Dinghuai Zhang, Yoshua Bengio</authors>
+        <journal>preprint</journal>
+    </item>
+    <item>
+        <name><a href="http://arxiv.org/abs/2209.12782">Learning GFlowNets from partial episodes for improved convergence and stability</a><tag class="ml"></tag></name>  
+        <authors>Kanika Madan, Jarrid Rector-Brooks&ast;, Maksym Korablyov&ast;, Emmanuel Bengio, Moksh Jain, Andrei Nica, Tom Bosc, Yoshua Bengio, <me>Nikolay Malkin</me></authors>
+        <journal>preprint</journal>
+    </item>
+    <item>
+        <name><a href="https://arxiv.org/abs/2206.09012">Diffusion models as plug-ang-play priors</a><tag class="ml"></tag><tag class="cv"></tag></name>     
+        <authors>Alexandros Graikos, <me>Nikolay Malkin</me>, Nebojsa Jojic, Dimitris Samaras</authors>
+        <journal>NeurIPS 2022</journal>
+    </item>
+    <item>
+        <name><a href="https://arxiv.org/abs/2201.13259">Trajectory balance: Improved credit assignment in GFlowNets</a><tag class="ml"></tag></name>     
+        <authors><me>Nikolay Malkin</me>, Moksh Jain, Emmanuel Bengio, Chen Sun, Yoshua Bengio</authors>
+        <journal>NeurIPS 2022</journal>
+    </item>
+    <item>
+        <name><a href="https://openreview.net/forum?id=rfGNz_Uiqgq">Resolving label uncertainty with implicit posterior models</a><tag class="ml"></tag><tag class="cv"></tag></name>   
+        <authors>Esther Rolf&ast;, <me>Nikolay Malkin</me>&ast;, Alexandros Graikos, Ana Jojic, Caleb Robinson, Nebojsa Jojic</authors>
+        <!-- <journal>Uncertainty in Artificial Intelligence (<b>UAI</b>) 2022</journal> -->
+        <journal>UAI 2022</journal>
+    </item>
+    <item>
+        <name><a href="https://proceedings.mlr.press/v162/zhang22v.html">Generative flow networks for discrete probabilistic modeling</a><tag class="ml"></tag></name>    
+        <authors>Dinghuai Zhang, <me>Nikolay Malkin</me>, Zhen Liu, Alexandra Volokhova, Aaron Courville, Yoshua Bengio</authors>
+        <!-- <journal>International Conference on Machine Learning (<b>ICML</b>) 2022</journal> -->
+        <journal>ICML 2022</journal>
+    </item>
+    <item>
+        <name><a href="https://arxiv.org/abs/2209.02606">Unifying generative models with GFlowNets</a><tag class="ml"></tag></name>  
+        <authors>Dinghuai Zhang, Ricky T. Q. Chen, <me>Nikolay Malkin</me>, Yoshua Bengio</authors>
+        <journal>ICML 2022 &ldquo;Beyond Bayes: Paths Towards Universal Reasoning Systems&rdquo; workshop</journal>
+    </item>
+    <item>
+        <name><a href="https://aclanthology.org/2022.acl-long.565/">Coherence boosting: When your pretrained language model is not paying enough attention</a><tag class="nlp"></tag></name>    
+        <authors><me>Nikolay Malkin</me>, Zhen Wang, Nebojsa Jojic</authors>
+        <!-- <journal>Association for Computational Linguistics (<b>ACL</b>) 2022</journal> -->
+        <journal>ACL 2022</journal>
+    </item>
+    <item>
+        <name><a href="https://ieeexplore.ieee.org/document/9690575">The outcome of the 2021 IEEE GRSS Data Fusion Contest - Track MSD: Multitemporal semantic change detection</a><tag class="cv"></tag></name>    
+        <authors>Zhuohong Li, Fangxiao Lu, Hongyan Zhang, Lilin Tu, Jiayi Li, Xin Huang, Caleb Robinson, <me>Nikolay Malkin</me>, Nebojsa Jojic, Pedram Ghamisi, Ronny Hänsch, Naoto Yokoya</authors>
+        <!-- <journal></journal>Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>)</journal> -->
+        <journal>JSTARS vol.15</journal>
+    </item>
+    <h3>2021</h3>    
+    <item>
+        <name><a href="https://aclanthology.org/2021.emnlp-main.809/">Studying word order through iterative shuffling</a><tag class="nlp"></tag></name>    
+        <authors><me>Nikolay Malkin</me>, Sameera Lanka, Pranav Goel, Nebojsa Jojic</authors>
+        <!-- <journal>Empirical Methods in Natural Language Processing (<b>EMNLP</b>) 2021</journal> -->
+        <journal>EMNLP 2022</journal>
+    </item>
+    <item>
+        <name><a href="https://aclanthology.org/2021.naacl-main.439/">GPT Perdetry Test: Generating new meanings for new words</a><tag class="nlp"></tag></name>    
+        <authors><me>Nikolay Malkin</me>, Sameera Lanka, Pranav Goel, Sudha Rao, Nebojsa Jojic</authors>
+        <!-- <journal>North American Chapter of the Association for Computational Linguistics (<b>NAACL</b>) 2021</journal> -->
+        <journal>NAACL 2021</journal>
+    </item>
+    <item>
+        <name><a href="https://ieeexplore.ieee.org/abstract/document/9554869">From local algorithms to global results: Human-machine collaboration for robust analysis of geographically diverse imagery</a><tag class="cv"></tag></name>    
+        <authors>Nebojsa Jojic, <me>Nikolay Malkin</me>, Caleb Robinson, Anthony Ortiz</authors>
+        <!-- <journal>International Geoscience and Remote Sensing Symposium (<b>IGARSS</b>) 2021</journal> -->
+        <journal>IGARSS 2021</journal>
+    </item>
+    <item>
+        <name><a href="https://elischolar.library.yale.edu/gsas_dissertations/84/">On the Galois action on motivic fundamental groups of punctured elliptic and rational curves</a><tag class="math"></tag></name>    
+        <authors><me>Nikolay Malkin</me>; thesis advisor A.B. Goncharov</authors>
+        <journal>PhD thesis</journal>
+    </item>
+    <item>
+        <name><a href="https://arxiv.org/abs/2101.01154">High-resolution land cover change from low-resolution labels: Simple baselines for the 2021 IEEE GRSS Data Fusion Contest</a><tag class="cv"></tag></name>    
+        <authors><me>Nikolay Malkin</me>, Caleb Robinson, Nebojsa Jojic</authors>
+        <journal>preprint</journal>
+    </item>
+    <item>
+        <name><a href="https://ieeexplore.ieee.org/document/9369830">Global land cover mapping with weak supervision: Outcome of the 2020</journal> IEEE GRSS Data Fusion Contest</a><tag class="cv"></tag></name>     
+        <authors>Caleb Robinson, <me>Nikolay Malkin</me>, Nebojsa Jojic, Huijun Chen, Rongjun Qin, Changlin Xiao, Michael Schmitt, Pedram Ghamisi, Ronny Hänsch, Naoto Yokoya</authors>
+        <!-- <journal>Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>)</journal> -->
+        <journal>JSTARS vol.14</journal>
+    </item>
+  
+    <h3>2020</h3>
+    
+    <item>
+        <name><a href="link">Learning intersecting representations of short random walks on graphs</a><tag class="ml"></tag></name>    
+        <authors><me>Nikolay Malkin</me>, Nebojsa Jojic</authors>
+        <journal>preprint</journal>
+    </item>
+    <item>
+        <name><a href="https://arxiv.org/abs/2010.07238">Motivic fundamental groups of CM elliptic curves and geometry of Bianchi hyperbolic threefolds</a><tag class="math"></tag></name>    
+        <authors><me>Nikolay Malkin</me></authors>
+        <journal>preprint</journal>
+    </item>
+    <item>
+        <name><a href="https://ieeexplore.ieee.org/document/9547211">Weakly supervised semantic segmentation in the 2020 IEEE GRSS Data Fusion Contest</a><tag class="cv"></tag></name>    
+        <authors>Caleb Robinson, <me>Nikolay Malkin</me>, Lucas Hu, Bistra Dilkina, Nebojsa Jojic</authors>
+        <!-- <journal>International Geoscience and Remote Sensing Symposium (<b>IGARSS</b>) 2020; contest winner</journal> -->
+        <journal>IGARSS 2020; context winner</journal>
+    </item>
+    <item>
+        <name><a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710528.pdf">Mining self-similarity: Label super-resolution with epitomic representations</a><tag class="ml"></tag><tag class="cv"></tag></name>   
+        <authors><me>Nikolay Malkin</me>, Anthony Ortiz, Nebojsa Jojic</authors>
+        <!-- <journal>European Conference on Computer Vision (<b>ECCV</b>) 2020</journal> -->
+        <journal>ECCV 2020</journal>
+    </item>
+    <item>
+        <name><a href="https://arxiv.org/abs/2003.06521">Shuffle relations for Hodge and motivic correlators</a><tag class="math"></tag></name>  
+        <authors><me>Nikolay Malkin</me></authors>
+        <journal>preprint</journal>
+    </item>
+    <item>
+        <name><a href="https://ojs.aaai.org/index.php/AAAI/article/view/5633">Human-machine collaboration for fast land cover mapping</a><tag class="cv"></tag></name>  
+        <authors>Caleb Robinson, Anthony Ortiz, <me>Nikolay Malkin</me>, Blake Elias, Andi Peng, Dan Morris, Bistra Dilkina, Nebojsa Jojic</authors>
+        <!-- <journal>Association for the Advancement of Artificial Intelligence (<b>AAAI</b>) 2020</journal> -->
+        <journal>AAAI 2020</journal>
+    </item>
+    <item>
+
+    <h3>2019</h3>
+
+    <item>
+        <name><a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Robinson_Large_Scale_High-Resolution_Land_Cover_Mapping_With_Multi-Resolution_Data_CVPR_2019_paper.pdf">Large scale high-resolution land cover mapping with multi-resolution data</a><tag class="cv"></tag></name>  
+        <authors>Caleb Robinson, Le Hou, <me>Nikolay Malkin</me>, Rachel Soobitsky, Jacob Czawlytko, Bistra Dilkina, Nebojsa Jojic</authors>
+        <!-- <journal>Computer Vision and Pattern Recognition (<b>CVPR</b>) 2019</journal> -->
+        <journal>CVPR 2019</journal>
+    </item>
+    <item>
+        <name><a href="https://arxiv.org/abs/1904.04429">Label super-resolution with inter-instance loss</a><tag class="cv"></tag></name>  
+        <authors>Maozheng Zhao, Le Hou, Han Le, Dimitris Samaras, Nebojsa Jojic, Danielle Fassler, Tahsin Kurc, Rajarsi Gupta, <me>Nikolay Malkin</me>, Shroyer Kenneth, Joel Saltz</authors>
+        <journal>preprint</journal>
+    </item>
+    <item>
+        <name><a href="https://openreview.net/forum?id=rkxwShA9Ym">Label super-resolution networks</a><tag class="cv"></tag></name>  
+        <authors><me>Nikolay Malkin</me>, Caleb Robinson, Le Hou, Rachel Soobitsky, Jacob Czawlytko, Dimitris Samaras, Joel Saltz, Lucas Joppa, Nebojsa Jojic</authors>
+        <!-- <journal>International Conference on Learning Representations (<b>ICLR</b>) 2019</journal> -->
+        <journal>ICLR 2019</journal>
+    </item>
+</section>
+
+</body>
+</html>

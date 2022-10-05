@@ -20,7 +20,7 @@ Dinghuai Zhang, Ricky T. Q. Chen, *Nikolay Malkin*, Yoshua Bengio
 Alexandros Graikos, *Nikolay Malkin*, Nebojsa Jojic, Dimitris Samaras  
 *preprint*
 
-[Coherence boosting: When your pretrained language model is not paying enough attention](https://arxiv.org/abs/2110.08294)    
+[Coherence boosting: When your pretrained language model is not paying enough attention](https://aclanthology.org/2022.acl-long.565/)    
 *Nikolay Malkin*, Zhen Wang, Nebojsa Jojic    
 *Association for Computational Linguistics (**ACL**)* 2022
 

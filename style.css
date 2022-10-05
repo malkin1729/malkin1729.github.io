@@ -1,0 +1,68 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+header {
+    display: inline-block;
+    width:200px;
+    padding-right:10px;
+    vertical-align: top;
+}
+section {
+    display: inline-block;
+    max-width:650px;
+}
+
+item {
+    display: block;
+    padding-bottom:10px;
+}
+
+name {
+    display: block;
+}
+authors {
+    display: block;
+}
+journal {
+    display: block;
+}
+me {
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    background-color: #eef;
+}
+a:hover {
+    /* color: blue; */
+    background-color: #ddf;
+}
+
+h1 {
+    font-size:inherit;
+    font-weight:bold;
+    margin-block:0px;
+    margin-bottom:1em;
+}
+h2 {
+   font-size: inherit;
+   font-weight: bold;
+   background: #dfd;
+   margin-block:0px;
+   margin-bottom:1em;
+}
+h3 {
+   font-size: inherit;
+   font-style: italic;
+   font-weight: normal;
+   background: #efe;
+   margin-block:0px;
+   margin-bottom:1em;
+}
+
+ul {
+    padding: 0em 0em 0em 1em;
+}

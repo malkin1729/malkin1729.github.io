@@ -1,5 +1,5 @@
 body {
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 14px;
 }
 header {
@@ -10,6 +10,7 @@ header {
 }
 section {
     display: inline-block;
+    vertical-align: top;
     max-width:650px;
 }
 

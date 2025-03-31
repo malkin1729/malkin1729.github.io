@@ -23,7 +23,7 @@
             We wish to sample a spanning tree of a planar graph. We start by adding a random vertex (&bullet;) to the tree. We then select a random vertex that has not been added (<span style="color:blue;">&squarf;</span>) and simulating a <span style="color:red;">loop-erased</span> <span style="color:blue;">random walk</span> until we reach a vertex that has already been added. We then add the vertices and edges visited during the walk to the tree. This is repeated until all vertices have been added.
         </p>
         <p>
-            Select a lattice type (square, hexagonal, triangular) or a random point set. In the case of a random point set, the three edge settings control the manner in which the a planar graph with the sampled vertex set is constructed: greedy non-crossing order in increasing order of length (Short), the same in decreasing order of length (Long), or the Delaunay triangulation. The edge weights are the Euclidean distances raised to the power of the weight exponent: with larger values, longer edges are favoured.
+            Select a lattice type (square, hexagonal, triangular) or a random point set. In the case of a random point set, the three edge settings control the manner in which the a planar graph with the sampled vertex set is constructed: greedy noncrossing insertion in increasing order of length (Short), the same in decreasing order of length (Long), or the Delaunay triangulation. The edge weights are the Euclidean distances raised to the power of the weight exponent: with larger values, longer edges are favoured.
         </p>
         <p>
             The two speed sliders control the latency of the random walk and of the outer loop that adds walks to the tree under construction.

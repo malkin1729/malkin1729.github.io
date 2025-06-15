@@ -4,14 +4,14 @@ body {
 }
 header {
     display: inline-block;
-    width:200px;
+    width:300px;
     padding-right:10px;
     vertical-align: top;
 }
 section {
     display: inline-block;
     vertical-align: top;
-    max-width:650px;
+    width:650px;
 }
 
 item {

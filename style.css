@@ -53,6 +53,7 @@ h1 {
     margin-block:0px;
     margin-bottom:1em;
     background: #e0b0ff;
+    padding:4px;
 }
 h2 {
    font-size: inherit;
@@ -60,6 +61,7 @@ h2 {
    background: #e8c0ff;
    margin-block:0px;
    margin-bottom:1em;
+   padding:4px;
 }
 h3 {
    font-size: inherit;
@@ -67,6 +69,7 @@ h3 {
    background: #f0d0ff;
    margin-block:0px;
    margin-bottom:1em;
+   padding:4px;
 }
 h4 {
     font-size: inherit;
@@ -75,8 +78,9 @@ h4 {
     background: #f8e0ff;
     margin-block:0px;
     margin-bottom:1em;
+    padding:4px;
 }
 
 ul {
-    padding: 0em 0em 0em 1em;
+    padding: 0em 0em 0em 1.5em;
 }

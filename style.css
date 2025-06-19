@@ -57,7 +57,6 @@ h2 {
 }
 h3 {
    font-size: inherit;
-   font-style: italic;
    font-weight: normal;
    background: #f0d0ff;
    margin-block:0px;
@@ -65,8 +64,8 @@ h3 {
 }
 h4 {
     font-size: inherit;
-    font-style: italic;
     font-weight: normal;
+    font-style: italic;
     background: #f8e0ff;
     margin-block:0px;
     margin-bottom:1em;

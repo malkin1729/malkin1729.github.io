@@ -8,12 +8,12 @@ header {
     vertical-align: top;
     padding-right: 10px;
 }
-@media (max-width: 930px) {
+/* @media (max-width: 930px) {
     header {
         width:650px;
         padding-right: 0px;
     }
-}
+} */
 section {
     display: inline-block;
     max-width:650px;

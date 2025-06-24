@@ -50,35 +50,40 @@ a:hover {
 h1 {
     font-size:inherit;
     font-weight: bold;
+    color: black;;
     margin-block:0px;
     margin-bottom:1em;
-    background: #e0b0ff;
+    background: #d4a0f4;
     padding:4px;
+    border-radius: 4px;
 }
 h2 {
    font-size: inherit;
    font-weight: bold;
-   background: #e8c0ff;
+   background: #e0b4f8;
    margin-block:0px;
    margin-bottom:1em;
    padding:4px;
+   border-radius: 4px;
 }
 h3 {
    font-size: inherit;
    font-weight: normal;
-   background: #f0d0ff;
+   background: #ecc8fc;
    margin-block:0px;
    margin-bottom:1em;
    padding:4px;
+   border-radius: 4px;
 }
 h4 {
     font-size: inherit;
     font-weight: normal;
     font-style: italic;
-    background: #f8e0ff;
+    background: #f8dcff;
     margin-block:0px;
     margin-bottom:1em;
     padding:4px;
+    border-radius: 4px;
 }
 
 ul {

@@ -27,6 +27,7 @@ item {
 
 name {
     display: block;
+    font-style: italic;
 }
 authors {
     display: block;

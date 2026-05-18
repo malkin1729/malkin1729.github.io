@@ -90,3 +90,7 @@ h4 {
 ul {
     padding: 0em 0em 0em 1.5em;
 }
+td {
+    padding:0px;
+    vertical-align: top;;
+}
